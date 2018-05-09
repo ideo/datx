@@ -17,7 +17,7 @@
   "author": "Infinum JavaScript Team <hello@infinum.co>",
   "license": "MIT",
   "devDependencies": {
-    "@infinumjs/tslint-config": "^2.0.0-beta.3",
+    "@infinumjs/tslint-config": "^2.0.0-beta.5",
     "@types/jest": "^22.2.3",
     "@types/node": "^10.0.0",
     "jest": "^22.4.3",
