@@ -28,7 +28,7 @@
     "mobx": "^4.2.0",
     "rollup": "^0.64.0",
     "rollup-plugin-typescript2": "^0.17.0",
-    "rollup-plugin-uglify": "^3.0.0",
+    "rollup-plugin-uglify": "^5.0.2",
     "ts-jest": "^23.0.0",
     "tslint": "^5.9.1",
     "typescript": "^2.8.3"
